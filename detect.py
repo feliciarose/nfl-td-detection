@@ -1,5 +1,4 @@
 '''
-CV Final Project: Felicia Drysdale: U43237407
 This project consists of finetuning YOLOv8 for segmentation with images I took and testing them with my test
 set and NFL Snapshots. The goal was to determine if it was a touchdown based on the pixel locations of the
 line and the football relative to eachother. 
